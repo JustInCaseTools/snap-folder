@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/45889e2b-80a9-4bad-9b3a-fb2ad1c77109" alt="Logo" width="200">
+
 # ✨ SnapFolder: Create Folders at the Snap of Your Fingers!
 
 Welcome to **SnapFolder**! The ultimate tool for effortlessly conjuring up complex folder structures with the power of a finger snap. No more tedious clicks or repetitive commands—SnapFolder is here to save the day! 💥
