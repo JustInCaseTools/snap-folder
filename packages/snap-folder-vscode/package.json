@@ -1,8 +1,9 @@
 {
   "name": "snap-folder-vscode",
   "version": "1.0.0",
-  "description": "",
+  "description": "The ultimate tool for effortlessly conjuring up complex folder structures with the power of a finger snap!",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
